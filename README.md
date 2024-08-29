@@ -13,9 +13,9 @@ I hold a Post-Degree Diploma in Business and Advanced Analytics from NBCC, Saint
 My technical skills include:
 
 - 🔝 **Data Analysis**: Advanced proficiency in analyzing complex datasets to extract meaningful insights.
+- 🔝 **Business Analytics**: Skilled in identifying trends, anomalies, and correlations to inform strategic decisions.
 - 🔝 **Data Visualization**: Expertise in creating impactful visualizations using Power BI and Tableau.
 - 🔝 **Programming**: Competent in R, Python and SQL for data manipulation and analysis.
-- 🔝 **Business Analytics**: Skilled in identifying trends, anomalies, and correlations to inform strategic decisions.
 
 ## Skills
 
