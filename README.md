@@ -25,7 +25,7 @@ My technical skills include:
 
 ## Connect with Me 🤝
 
-[<img width="64" height="64" src="https://img.icons8.com/pastel-glyph/64/new-post--v2.png" alt="new-post--v2"/>](mailto:jaargug@outlook.com)          
+[<img width="64" height="64" src="https://img.icons8.com/pastel-glyph/64/new-post--v2.png" alt="new-post--v2"/>](mailto:jaargug@outlook.com)     
 [<img width="64" height="64" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/jaarguga/)
 
 <!-- Add a note if you have any ongoing projects or interests -->
