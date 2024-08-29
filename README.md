@@ -10,10 +10,10 @@ I hold a Post-Degree Diploma in Business and Advanced Analytics from NBCC, Saint
 
 My technical skills include:
 
-*🔝 **Data Analysis**: Advanced proficiency in analyzing complex datasets to extract meaningful insights.
-*🔝 **Data Visualization**: Expertise in creating impactful visualizations using Power BI and Tableau.
-*🔝 **Programming**: Competent in R, Python and SQL for data manipulation and analysis.
-*🔝 **Business Analytics**: Skilled in identifying trends, anomalies, and correlations to inform strategic decisions.
+- 🔝 **Data Analysis**: Advanced proficiency in analyzing complex datasets to extract meaningful insights.
+- 🔝 **Data Visualization**: Expertise in creating impactful visualizations using Power BI and Tableau.
+- 🔝 **Programming**: Competent in R, Python and SQL for data manipulation and analysis.
+- 🔝 **Business Analytics**: Skilled in identifying trends, anomalies, and correlations to inform strategic decisions.
 
 ## Skills
 
@@ -25,7 +25,7 @@ My technical skills include:
 
 ## Connect with Me 🤝
 
-[<img width="64" height="64" src="https://img.icons8.com/pastel-glyph/64/new-post--v1.png" alt="new-post--v1"/>](mailto:jaargug@outlook.com)
-[LinkedIn](https://www.linkedin.com/in/jaarguga/)
+[<img width="64" height="64" src="https://img.icons8.com/pastel-glyph/64/new-post--v1.png" alt="new-post--v1"/>](mailto:jaargug@outlook.com)          
+[<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/jaarguga/)
 
 <!-- Add a note if you have any ongoing projects or interests -->
