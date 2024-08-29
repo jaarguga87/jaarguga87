@@ -25,7 +25,7 @@ My technical skills include:
 ![Predictive Analytics & Machine Learning](https://img.shields.io/badge/Predictive%20Analytics%20%26%20Machine%20Learning-Beginner-red)
 ![Business Process Optimization](https://img.shields.io/badge/Business%20Process%20Optimization-Advanced-yellow)
 
-## Connect with Me 🤝
+## Connect with Me!
 
 [<img width="64" height="64" src="https://img.icons8.com/color/48/apple-mail.png" alt="apple-mail"/>](mailto:jaargug@outlook.com) 
 [<img width="64" height="64" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/jaarguga/)
