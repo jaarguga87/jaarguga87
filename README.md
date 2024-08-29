@@ -25,7 +25,7 @@ My technical skills include:
 
 ## Connect with Me 🤝
 
-[<img width="64" height="64" src="https://img.icons8.com/ios-filled/50/apple-mail.png" alt="apple-mail"/>>](mailto:jaargug@outlook.com)   
+[https://img.icons8.com/?size=100&id=YRRhCXfA0Vd0&format=png&color=000000](mailto:jaargug@outlook.com)   
 [<img width="64" height="64" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/jaarguga/)
 
 <!-- Add a note if you have any ongoing projects or interests -->
