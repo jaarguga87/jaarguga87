@@ -1,12 +1,14 @@
-# Hi there, I'm Jahir Gutierrez! 👋
+# Hi there, I'm Jahir Gutierrez!
 
 Thanks for stopping by my profile!
 
 Leveraging my engineering background and skills in Advanced Analytics, I can drive strategic decision-making by applying statistical analysis, data visualization, and machine learning techniques. This approach enhances business results.
 
+![icons8-combo-chart (1)](https://github.com/user-attachments/assets/bd873458-0322-43e8-ab71-8090f64bce0b)
+
 ## About Me
 
-I hold a Post-Degree Diploma in Business and Advanced Analytics from NBCC, Saint John, Canada. My experience spans across petroleum engineering roles, including production optimization and artificial lift systems, where I utilized data-driven strategies to maximize efficiency and performance 🚀
+I hold a Post-Degree Diploma in Business and Advanced Analytics from NBCC, Saint John, Canada. My experience spans across petroleum engineering roles, including production optimization and artificial lift systems, where I utilized data-driven strategies to maximize efficiency and performance.
 
 My technical skills include:
 
@@ -25,7 +27,7 @@ My technical skills include:
 
 ## Connect with Me 🤝
 
-[<img width="48" height="48" src="https://img.icons8.com/color/48/apple-mail.png" alt="apple-mail"/>](mailto:jaargug@outlook.com) 
+[<img width="64" height="64" src="https://img.icons8.com/color/48/apple-mail.png" alt="apple-mail"/>](mailto:jaargug@outlook.com) 
 [<img width="64" height="64" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/jaarguga/)
 
 <!-- Add a note if you have any ongoing projects or interests -->
