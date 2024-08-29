@@ -2,7 +2,7 @@
 
 Thanks for stopping by my profile!
 
-With a strong background in engineering and data analysis, I'm skilled in leveraging Advanced Analytics and Business Intelligence to drive actionable insights. I integrate my knowledge in data visualization, statistical analysis, and optimization to enhance decision-making and operational efficiency.
+Leveraging my engineering background and skills in Advanced Analytics, I can drive strategic decision-making by applying statistical analysis, data visualization, and machine learning techniques. This approach enhances business results.
 
 ## About Me
 
@@ -25,7 +25,7 @@ My technical skills include:
 
 ## Connect with Me 🤝
 
-- [Email](mailto:jaargug@outlook.com)
+- [<img width="64" height="64" src="https://img.icons8.com/pastel-glyph/64/new-post--v2.png" alt="new-post--v2"/>](mailto:jaargug@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/jaarguga/)
 
 <!-- Add a note if you have any ongoing projects or interests -->
